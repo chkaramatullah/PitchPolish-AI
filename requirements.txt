@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart  # if you plan to add file uploads later
